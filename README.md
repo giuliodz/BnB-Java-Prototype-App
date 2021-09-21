@@ -1,6 +1,7 @@
 # BRIEF
-This is a smiple GUI-based Application written in Java for exploring properties available for rental in London. It gives
-users an immersive experience for finding a rental property in London, matching their
+This is a smiple GUI-based Application written in Java for exploring properties available for rental in London. It is meant to be an exercise for good standards in OO-Programming for Desktop Application using Java. It loads some static property listings from `airbnb-london.csv` and shows them to the user giving it some navigation functionalities and other cool stuff. Later on, an integration with an external API requesting live listings should be done.
+**Note** As for now, the application does not use any building tool (such as Gradle for example) 
+It gives users an immersive experience for finding a rental property in London, matching their
 desired criteria over a variety of categories including price range, location and size. It
 consists of 4 panels forming the logical journey of how the user can decide to select a
 property. The first panel includes a welcome message with instructions of how to use the
